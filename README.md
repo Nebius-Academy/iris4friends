@@ -3,7 +3,7 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone https://github.com/tripleten-com/Iris4Friends
+git clone https://github.com/Nebius-Academy/Iris4Friends
 ```
 
 ```
